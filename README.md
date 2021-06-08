@@ -1,6 +1,6 @@
 # Flash MinSort
 
-Flash minsort is a fast sorting algorithm for embedded devices with minimal memory. This version is specifically for the Arduino.
+Flash minsort is a fast sorting algorithm for embedded devices with minimal memory. The algorithm was published in IDEAS 2010 ([paper](https://dl.acm.org/doi/10.1145/1866480.1866496)). This version is specifically for the Arduino.
 
 Flash minsort has the following benefits:
 
